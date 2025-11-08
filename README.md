@@ -1,2 +1,5 @@
-# web3-learning
-# My Web3 Learning Journey This repository documents my progress while exploring blockchain and Web3 tools.
+# My Web3 Learning Journey
+
+## Today’s Web3 Notes (2025-11-08)
+- Started GitHub repository.
+- Goal: Learn basics of wallets, smart contracts, and Legion score improvements.
