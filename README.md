@@ -6,3 +6,6 @@
 ## Today’s Web3 Notes (2025-11-13)
 - Learned what “on-chain data” means and how wallets record transactions.
 - Observed Legion score update cycle.
+## Today’s Web3 Notes (2025-11-13)
+- Reviewed basic structure of smart contracts written in Solidity.
+- Learned difference between mainnet and testnet environments.
