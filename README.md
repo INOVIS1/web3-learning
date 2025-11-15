@@ -13,3 +13,7 @@
 - Logged first sequence of consistent GitHub updates.
 - Identified basic workflow: edit → commit → push.
 - Noted that regular activity matters more than file size.
+## Today’s Web3 Notes (2025-11-16)
+- Added new tracking notes for GitHub activity rhythm.
+- Documented difference between repository structure and file hierarchy.
+- Recorded observation about how small commits still count as technical signals.
