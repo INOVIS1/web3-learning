@@ -9,3 +9,7 @@
 ## Today’s Web3 Notes (2025-11-13)
 - Reviewed basic structure of smart contracts written in Solidity.
 - Learned difference between mainnet and testnet environments.
+## Today’s Web3 Notes (2025-11-15)
+- Logged first sequence of consistent GitHub updates.
+- Identified basic workflow: edit → commit → push.
+- Noted that regular activity matters more than file size.
