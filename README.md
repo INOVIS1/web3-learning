@@ -17,3 +17,7 @@
 - Added new tracking notes for GitHub activity rhythm.
 - Documented difference between repository structure and file hierarchy.
 - Recorded observation about how small commits still count as technical signals.
+## Today’s Web3 Notes (2025-11-17)
+- Logged a structural note about how branches can separate work streams.
+- Clarified the role of the main branch as the default production line.
+- Added a reminder that frequent small commits build a cleaner activity graph.
