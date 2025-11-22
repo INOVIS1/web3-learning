@@ -25,3 +25,7 @@
 - Noted how repositories can contain independent folders for separate ideas.
 - Added clarification on commit messages as chronological markers.
 - Observed that a stable update pace builds stronger developer activity signals.
+## Today’s Web3 Notes (2025-11-19)
+- Logged a note on how repositories scale when adding multiple Markdown files.
+- Clarified that Git tracks every change as a snapshot, not just text edits.
+- Added reminder that steady daily commits maintain a clean contribution timeline.
